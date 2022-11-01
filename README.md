@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Synaptic as a Director of Engineering.
+- 🌱 I’m currently learning react/javascript/typescript
+- 👯 I've worked a gamut of functions over the last decade, generalist at heart but focusing my energies on front end engineering for now.
+
 <!--
 **Shukl/Shukl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
