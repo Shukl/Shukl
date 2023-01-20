@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Synaptic as a Director of Engineering.
-- 🌱 I’m currently learning and working with react/javascript/typescript.
+- 🔭 I’m currently working at Head of product at Mool!
+- 🌱 I enjoy front end engineering and JS.
 - 🤔 Ex web-3 founder, Prime minister's Fellow
-- 👯 I've worked a gamut of functions over the last decade, generalist at heart but focusing my energies on front end engineering for now.
+- 👯 I've worked a gamut of functions over the last decade, generalist at heart but focusing my energies on delivering consumer products right now.
 
 <!--
 **Shukl/Shukl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
