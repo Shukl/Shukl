@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am a product leader at [mool.ai](mool.ai)!
+- 🔭 I am a product leader at [mool.ai](https://www.mool.ai)!
 - 🌱 I enjoy front end engineering and JS.
 - 🤔 Ex web-3 founder, Prime minister's Fellow
 - 👯 I've worked a gamut of functions over the last decade, generalist at heart but focusing my energies on delivering enterprise GenAI products right now.
