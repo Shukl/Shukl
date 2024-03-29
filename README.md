@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Head of product at Mool!
+- 🔭 I am a product leader at Mool.ai!
 - 🌱 I enjoy front end engineering and JS.
 - 🤔 Ex web-3 founder, Prime minister's Fellow
-- 👯 I've worked a gamut of functions over the last decade, generalist at heart but focusing my energies on delivering consumer products right now.
+- 👯 I've worked a gamut of functions over the last decade, generalist at heart but focusing my energies on delivering enterprise GenAI products right now.
 
 <!--
 **Shukl/Shukl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
