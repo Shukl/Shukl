@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am a Chief Product Office and en Engineering IC at [mool.ai](https://www.mool.ai)
+- 🔭 I am a Chief Product Office and Engineering IC at [mool.ai](https://www.mool.ai)
 - 🌱 I enjoy wrangling complex chaotic design problems in AI agent architectures for business
 - 🤔 Ex web-3 founder, Prime minister's Fellow, 0->1 veteran.
 - 👯 Technology generalist.
