@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Founding Engineer @ [Nettle]([https://www.mool.ai](https://nettle.llc/)
+- 🔭 Founding Engineer @ [Nettle](https://nettle.llc/)
 - 🌱 I enjoy wrangling complex chaotic design problems in AI agent architectures for business.
 - 🤔 Ex web-3 founder, Prime minister's Fellow, 0->1 veteran.
 - 👯 Technology generalist.
